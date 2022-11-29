@@ -7,6 +7,11 @@ const inintialState = {
 
 export default function (state = inintialState, action) {
   switch (action.type) {
+    case FETCH_POSTS:
+      return {
+        ...state,
+        items: action.payload,
+      };
     default:
       return state;
   }
