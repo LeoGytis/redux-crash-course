@@ -1,5 +1,7 @@
-Redux Crash Course With React
+Redux Crash Course With React with Traversy Media
 
+Course from:
 https://www.youtube.com/watch?v=93p3LxR9xfM&ab_channel=TraversyMedia
 
-https://github.com/bradtraversy/redux_crash_course
+Code For This Project:
+https://github.com/bradtraversy/redux...
