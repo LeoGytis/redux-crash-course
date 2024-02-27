@@ -8,5 +8,3 @@ https://github.com/bradtraversy/redux...
 
 Commands:
 npm i redux react-redux redux-thunk
-
-praradau supratima ties 50min.
